@@ -38,7 +38,7 @@ Se o cliente for válido os seguintes requisitos devem ser realizados:
 ## Requisitos - Relatórios / Dashboards
 Para acompanhamento e relatórios gerenciais os seguintes requisitos deverão ser realizados:
 - Relatório de acompanhamento geral de prospect
-- Relatório de andamento específico do andamento de um prospect
+- Relatório de andamento específico do andamento de um determinado prospect
 
 ## Trabalho em Equipe
 As seguintes atividades devem ser realizadas para modelarmos as APIs e desenho da arquitetura deste projeto
@@ -53,10 +53,10 @@ obs. Desenhe o RAML somente das APIs que serão públicas os outros componentes 
 ### Dicas
 - Pense nas interface exposição das APIs que não serconsumidas diretamente pelo de uma forma diferente
 - Estas APIs de backend poderão ser assíncronas, então pense no modelo arquitetural que poderá ser empregado para este cenário
-- Para o repositório de análitico não pense em um repositório único. Pense no melhor modelo que consiga enderaçar os requisitos de negócio e não funcionais (performance)
+- Para o repositório dos dados análitics não pense em um repositório único. Pense no melhor modelo que consiga enderaçar os requisitos de negócio e não funcionais (performance)
 
 
 ## Concluindo
-Com este trabalho em equipe praticamos os principais conceitos de arquitetura apresentados para modelarmos e construirmos algumas APIs com os requisitos em questão. Para este tipo de trabalho não existe uma única resposta certa e sim o vantagens e desvantagens de cada escolha e qual será detalhado em uma apresentação em conjunto com a equipe.
+Com este trabalho em equipe praticamos os principais conceitos de arquitetura apresentados para modelarmos e construirmos algumas APIs com os requisitos em questão. Para este tipo de trabalho não existe uma única resposta certa e sim as vantagens e desvantagens de cada escolha.
 
 
