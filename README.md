@@ -59,4 +59,6 @@ obs. Desenhe o RAML somente das APIs que serão públicas os outros componentes 
 ## Concluindo
 Com este trabalho em equipe praticamos os principais conceitos de arquitetura apresentados para modelarmos e construirmos algumas APIs com os requisitos em questão. Para este tipo de trabalho não existe uma única resposta certa e sim as vantagens e desvantagens de cada escolha.
 
-
+Para maiores informações:
+- [Building MicroServices](http://shop.oreilly.com/product/0636920033158.do)
+- [7-lessons-learned-building-an-api](http://nordicapis.com/7-lessons-learned-building-an-api-startup/)
